@@ -1,0 +1,5 @@
+export {default as Nav} from './navbar/Nav'
+export {default as Hero} from './hero/Hero'
+export {default as Footer} from './Footer/Footer'
+export { default as Convertor} from './CurrencyConvertor/Conv'
+export { default as Registration} from './registration/Registration'
