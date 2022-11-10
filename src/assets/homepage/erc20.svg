@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg62"
+   sodipodi:docname="ethereum-token.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview64"
+     showgrid="false"
+     inkscape:zoom="37.354167"
+     inkscape:cx="12.970441"
+     inkscape:cy="14.054657"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62"
+     inkscape:pagecheckerboard="0" />
+  <circle
+     cx="12"
+     cy="12"
+     r="12"
+     fill="#EDF0F4"
+     id="circle48" />
+  <path
+     d="m 11.917697,3.7419541 -0.069,0.2521125 v 7.3149954 l 0.069,0.07401 3.158709,-2.0070414 z"
+     id="path50"
+     inkscape:connector-curvature="0"
+     style="fill:#343434;stroke-width:0.7499" />
+  <path
+     d="M 11.917986,3.7419541 8.7591973,9.3760384 11.917986,11.38308 V 7.8326209 Z"
+     id="path52"
+     inkscape:connector-curvature="0"
+     style="fill:#8c8c8c;stroke-width:0.7499" />
+  <path
+     d="m 11.917986,12.025762 -0.03891,0.051 v 2.605718 l 0.03891,0.122068 3.16059,-4.784898 z"
+     id="path54"
+     inkscape:connector-curvature="0"
+     style="fill:#3c3c3b;stroke-width:0.7499" />
+  <path
+     d="M 11.917986,14.804551 V 12.025762 L 8.7591973,10.019654 Z"
+     id="path56"
+     inkscape:connector-curvature="0"
+     style="fill:#8c8c8c;stroke-width:0.7499" />
+  <path
+     d="M 11.917914,11.383468 15.076551,9.3763494 11.917914,7.8329318 Z"
+     id="path58"
+     inkscape:connector-curvature="0"
+     style="fill:#141414;stroke-width:0.7499" />
+  <path
+     d="M 8.7591973,9.3763494 11.917986,11.383468 V 7.8329318 Z"
+     id="path60"
+     inkscape:connector-curvature="0"
+     style="fill:#393939;stroke-width:0.7499" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4.06835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#393939;fill-opacity:1;stroke:none;stroke-width:1.52563"
+     x="4.7952948"
+     y="19.796644"
+     id="text76"
+     transform="scale(1.0204722,0.9799385)"><tspan
+       sodipodi:role="line"
+       id="tspan74"
+       x="4.7952948"
+       y="19.796644"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06835px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#393939;fill-opacity:1;stroke-width:1.52563">ERC20</tspan></text>
+</svg>

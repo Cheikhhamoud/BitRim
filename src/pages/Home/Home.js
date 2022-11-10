@@ -1,14 +1,17 @@
 import React from 'react'
-import { Convertor, Hero } from '../../sections/index'
+import FormProvider from '../../context'
+import {   Convertor } from '../../sections/index'
 
 const Home = () => {
   return (
-    <div>
-    <Hero/>
-    <Convertor/>
-  
+    <>
 
-    </div>
+
+    <FormProvider>
+      <Convertor/>
+      </FormProvider>
+     {/* <Tokens/> */}
+     </>
   )
 }
 

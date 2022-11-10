@@ -1,40 +1,42 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.js';
-import { BrowserRouter as Router , Routes ,Route} from 'react-router-dom';
-import {Home ,SignIn,Conf} from './pages/index';
-// import { useSelector} from "react-redux";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import {Nav,Footer } from './sections/index';
-import Login from './sections/registration/Login';
+
+import About from './pages/About/About';
+import { Nav, Footer } from './sections/index';
+import Tokens from './sections/suppordetTokens/supportedTokens';
+import { Home } from './pages';
+import { HowWorks } from './sections/howitswork/HowWorks';
+import { Whatsapp } from './components/Whatsapp';
 
 
 
 
 function App() {
-  // const{isAuth} =useSelector((state)=>state.user)
-  return ( 
-  
-        
-   <> 
-   <Router> 
-      <Nav/>
-      <Routes>
-       
-          <Route path="/" element={<Home />} />
-          <Route path="signin" element={<SignIn/> } />
-          <Route path="login" element={<Login/> } />
-          <Route path="conf" element={<Conf/> } />
-      
-      </Routes>
+  return (
 
-    
-     
-  
+
+
+    <Router>
+      <Whatsapp />
+      <Nav />
+      <Routes>
+
+        <Route path="/" element={<Home />} />
+        <Route path="/works" element={<HowWorks />} />
+        <Route path="about" element={<About />} />
+        <Route path="tokens" element={<Tokens />} />
+
+
+
+      </Routes>
       <Footer />
-      </Router>
-</>
-  
+
+    </Router>
+
+
   );
 }
 

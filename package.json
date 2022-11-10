@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "proxy": "http://localhost:8000",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
@@ -15,15 +14,20 @@
     "eslint-plugin-react-hooks": "^5.0.0-next-8951c5fc9-20220915",
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
+    "little-state-machine": "^4.8.0",
     "mdb-react-ui-kit": "^4.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-fa-icon": "^0.1.4",
+    "react-floating-whatsapp": "^5.0.6",
     "react-hook-form": "^7.38.0",
+    "react-icons": "^4.6.0",
     "react-redux": "^8.0.4",
     "react-router-dom": "^6.4.2",
     "react-scripts": "5.0.1",
     "react-use-http": "^0.1.13",
     "react-use-storage": "^0.5.1",
+    "react-whatsapp": "^0.3.0",
     "use-http": "^1.0.27",
     "web-vitals": "^2.1.4"
   },
